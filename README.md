@@ -15,13 +15,6 @@
 
 
 
-
-
-
-
-
-
-
 1-Creacion de usuarios	3
 
 
@@ -41,21 +34,14 @@ Una vez aquí iremos a grupos click derecho crear grupo nuevo.
 
 
 
-
-
-
-
-
-
-
-
-
 Tras lo cual nos aparecera la siguiente ventana donde le pondremos el nombre que deseamos y pulsaremos crear.
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/7e6f35e8-4407-4840-8006-05f4a926a26f)
 
 
 Para crear RRHH repetiremos estos mismo pasos.
 
 Para crear a los usuarios iremos a usuarios y pulsaremos en Usuario nuevo.
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/e5fa4399-3357-4040-a50a-ca8783b931ba)
 
 
 
