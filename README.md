@@ -59,13 +59,13 @@ Para añadirlos a sus respectivos grupos iremos a grupos y los pondremos como mi
 Repetiremos este proceso para todos los usuarios.
 
 
-##Ficheros:
+## Ficheros:
 
 Creamos los directorios Desarrollo y Recursos humanos
 
 
 
-##Permisos:
+## Permisos:
 
 Para otorgar permisos en Windows primero tenemos que ir a la carpeta que queremos otorgar los permisos.
 
