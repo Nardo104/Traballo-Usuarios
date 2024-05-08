@@ -2,118 +2,452 @@
 + cc
 + ccc
 + cccc
-  
-  hdfuybufiyugv
-
-![Capturas](/Fotos/captura.png)
-
-![Captura de pantalla 2024-04-12 132400](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/8f6eec3b-b3e7-46a1-a73d-1c36aadd32f1)
-
-![Captura de pantalla 2024-04-17 133636](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/1a5651e6-fdaf-4ed0-82bc-9603da911fad)
-
-
-![Captura de pantalla 2024-04-17 133519](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/cff45b67-1a0c-45a3-86b2-be71551c64d5)
-
-![Captura de pantalla 2024-04-17 134002](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/5277fbe1-ce6f-4bd4-8381-b28f811e885e)
-
-![Captura de pantalla 2024-04-17 134038](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/a2a26e0d-8a15-48d0-83c7-fde2751337e8)
-
-![Captura de pantalla 2024-04-17 134220](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/d563deae-4f7d-4f9c-990b-aa6751ffd1c9)
-
-![Captura de pantalla 2024-04-17 134242](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/9aa725f4-c244-4e54-ba08-3c95d3557f7b)
-
-![Captura de pantalla 2024-04-17 134326](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/227c2766-b622-46ff-9001-c8a947d7c712)
-
-![Captura de pantalla 2024-04-17 135008](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/45d39b4a-7773-4f30-be0e-1a6a230379f1)
-
-![Captura de pantalla 2024-04-17 135132](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/b4b4984d-d786-4f48-81f0-97f3451b9741)
-
-![Captura de pantalla 2024-04-17 135206](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/980fe19f-8b54-4464-9de8-cba35f8910e1)
-
-![Captura de pantalla 2024-04-22 090028](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/e3e10859-3b21-44d0-be46-199917e208ba)
-
-![Captura de pantalla 2024-04-22 091328](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/d6ddda05-a8c3-4226-9133-4597a6a08332)
-
-![Captura de pantalla 2024-04-26 142356](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/185d92a4-f3c6-4374-8adc-28fbeb64b2c7)
-
-![Captura de pantalla 2024-04-26 142536](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/cf24f38e-eda5-4371-b726-f10bf7c8721f)
-
-![Captura de pantalla 2024-04-29 084952](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/377d4441-bc08-47ac-8cea-112b3302bd91)
-
-![Captura de pantalla 2024-04-29 085030](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/723cd402-ef13-4251-9863-222ea0557286)
-
-![Captura de pantalla 2024-04-29 085159](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/95230395-5ffb-42f4-904e-2ea26aa5bb99)
-
-![Captura de pantalla 2024-04-29 085225](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/3843dea6-bb67-4e96-bdd1-b2c77f2f6731)
-
-![Captura de pantalla 2024-04-29 090050](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/e9b4ac87-5ffb-4e5e-bb75-aca63821f520)
-
-![Captura de pantalla 2024-04-29 090532](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/e384b67f-2eb0-42a5-871f-e4e80056b895)
-
-![Captura de pantalla 2024-04-29 091144](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/05cbbfc6-0c77-4a5d-9871-fd9168ac71ef)
-
-![Captura de pantalla 2024-04-29 093633](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/543060df-87d1-4546-8ca6-b28cc4b49802)
-
-![Captura de pantalla 2024-04-29 094035](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/5387cc77-44e0-4ea6-b605-e2e7d9930713)
-
-![Captura de pantalla 2024-04-15 085559](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/2e243f3c-0180-4fe2-9d59-350b4c94c9c2)
-
-![Captura de pantalla 2024-04-15 085450](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/9b75ae75-f3d6-4ab3-a176-4bd935d68f26)
-
-![Captura de pantalla 2024-04-15 085420](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/bf9efadf-f0d7-488e-bbec-83dcc062b2b3)
-
-![Captura de pantalla 2024-04-15 085326](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/e1517e64-b89b-449e-af71-6bae33757006)
-
-![Captura de pantalla 2024-04-15 085256](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/a8e1af52-d00a-4859-821b-6dd87d340389)
-
-![Captura de pantalla 2024-04-15 085158](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/bace8599-1c3c-4b3e-b59e-6c8435463590)
-
-![Captura de pantalla 2024-04-15 085114](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/23132ab5-3e66-4df8-b98e-30e59c357924)
-
-![Captura de pantalla 2024-04-15 085109](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/1fb593dc-9676-4b95-81ba-c459a9604f94)
-
-![Captura de pantalla 2024-04-15 085050](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/1bb1c233-dd75-4c47-90e5-ec70f603169a)
-
-![Captura de pantalla 2024-04-15 084958](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/ad8aa7db-9ffe-405c-8355-b336a4fd375f)
-
-![Captura de pantalla 2024-04-15 084915](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/50cf3fa0-d59c-4104-ba4a-3dc8d3bd4f8b)
-
-![Captura de pantalla 2024-04-12 142429](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/e5312f3e-7254-4515-8c61-9725764a94b1)
-
-![Captura de pantalla 2024-04-12 142411](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/05254fef-55c3-4eee-875d-92407323a0ea)
-
-![Captura de pantalla 2024-04-12 142356](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/128ca048-778b-4ffd-93fc-4fb1fbce5ff1)
-
-![Captura de pantalla 2024-04-12 142257](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/5d0fdc19-24c4-4ef6-ac71-ffc77eeeebdb)
-
-![Captura de pantalla 2024-04-12 142242](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/48e06c3c-ccb6-4b93-81d2-5d2a3b6ceaa7)
-
-![Captura de pantalla 2024-04-12 142224](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/db97c658-c511-4fd4-9584-c5494fbbdf39)
-
-![Captura de pantalla 2024-04-12 142127](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/4378e1e1-5311-4e88-b120-3e3ec7c63044)
-
-![Captura de pantalla 2024-04-12 135829](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/f7598583-390a-45c6-a653-b75297043ae3)
-
-![Captura de pantalla 2024-04-12 135104](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/43de9c6c-615d-4e75-8282-4d70be94489c)
-
-![Captura de pantalla 2024-04-12 135041](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/2956a96c-e4e1-4a57-bf1f-0ba9117fc0ac)
-
-![Captura de pantalla 2024-04-12 134951](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/a6605f15-e8f5-49e6-9075-b2f0a2a7ff9c)
-
-![Captura de pantalla 2024-04-12 133617](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/c7f31607-6721-4b6e-81af-20e909b36c54)
-
-![Captura de pantalla 2024-04-12 133508](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/f5c66101-aa85-42e2-b40b-db9ccb1bc14a)
-
-![Captura de pantalla 2024-04-12 133113](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/8481c1ae-afcf-4dff-b2ae-2b7e62d92c54)
-
-![Captura de pantalla 2024-04-12 132808](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/93180391-2934-4f87-937f-abdfcb0ebbd4)
-
-![Captura de pantalla 2024-04-12 132452](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/140c58c3-f391-4982-83e9-ca64309166f7)
+CONFIGURACIÓN DE
+SISTEMAS OPERATIVOS
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Santiago Ezequiel Torres
+Leonardo Caamaño Tajes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1-Creacion de usuarios	3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1-Creación de usuarios y grupos locales (windows)
+
+
+Primero que nada empezaremos por abrir el administrador de sistemas,“Herramientas del sistema” y “Usuarios y grupos locales”.
+Una vez aquí iremos a grupos click derecho crear grupo nuevo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tras lo cual nos aparecera la siguiente ventana donde le pondremos el nombre que deseamos y pulsaremos crear.
+
+
+Para crear RRHH repetiremos estos mismo pasos.
+
+Para crear a los usuarios iremos a usuarios y pulsaremos en Usuario nuevo.
+
+
+
+Tras lo cual nos aparecera la siguiente ventana donde rellenaremos los datos del usuario y unavez echo esto le daremos a crear.
+
+
+Repetiremos esto con todos los usuarios.
+
+Para añadirlos a sus respectivos grupos iremos a grupos y los pondremos como miembros en sus respectivos grupos.
+
+Repetiremos este proceso para todos los usuarios.
+
+
+Ficheros:
+
+Creamos los directorios Desarrollo y Recursos humanos
+
+
+
+Permisos:
+
+Para otorgar permisos en Windows primero tenemos que ir a la carpeta que queremos otorgar los permisos.
+
+
+Una vez en ella haremos click derecho e iremos a propiedades.
+
+
+Luego a seguridad.
+
+
+Para luego aquí editar.
+
+
+Pondremos los permisos que queremos que tenga nuestros grupos y usuarios, para añadir a otros usuarios o grupos iremos a agregar.
+
+Una vez en agregar iremos a opciones avanzadas
+
+
+En opciones avanzadas pulsaremos en buscar ahora y elegiremos a las personas o grupos que queramos añadir, pulsaremos aceptar.
+
+
+
+Una vez añadidos aqui les daremos los permisos necesarios.
+
+
+Compartido:
+
+
+
+
+RRHH:
+
+
+
+
+Desarrollo:
+
+
+
+
+Fichero Personal:
+
+
+Linux:
+
+
+
+
+Crea los siguientes usuarios locales:
+
+● Juan (Grupo: Desarrollo) 
+
+
+● María (Grupo: Desarrollo) 
+
+
+
+● Lorena (Grupo: Desarrollo)
+
+
+● Verónica (Grupo: RRHH) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+● Diego (Grupo: RRHH)
+
+
+
+Crea los siguientes directorios: 
+
+● /srv/Empresa/Desarrollo
+● /srv/Empresa/RRHH 
+
+
+Crea los siguientes subdirectorios:
+
+● /srv/Empresa\Desarrollo\Juan 
+● /srv/Empresa\Desarrollo\María 
+● /srv/Empresa\Desarrollo\Lorena
+● /srv/Empresa\RRHH\Compartido
+
+
+ Dentro de cada directorio y subdirectorio añade los siguientes ficheros:
+
+● Un fichero de texto plano (.txt)
+● Un fichero de imagen (.jpg) 
+● Un fichero ejecutable (crea y utiliza un pequeño script en Bash con extensión .sh que devuelva el nombre del PC en el cual se ejecuta)
+
+
+
+
+Bash:
+
+
+Para Crear un fichero en bash que nos mostre o nombre do ordenador usaremos o comando nano para escribir o código e copiaremos o código da imaxen de arriba, unha vez feito esto empezaremos a copiar e pegar o archivo nos nosos distintos repositorios.
+
+
+Permisos Linux:
+
+
+
+
+
+
+
+● Actividad 4.5 - Procesos y servicios en Windows 11 Pro: 
+Administrador de tareas: 
+
+● Explica brevemente qué información contiene cada una de las pestañas del Administrador de tareas:
+
+ Procesos: Los procesos son los procedimientos que realizan las distintas aplicaciones en el sistema y en la pestaña de procesos nos muestra los que estan funcionando.
+
+
+ Rendimiento: Donde encontramos el rendimiento del ordenador.
+
+Historial de Aplicaciones: Nos muestra el tiempo de uso de una aplicación principalmente.
+
+
+Inicio: (Non sei)
+
+
+Usuario: Muestra los usuarios que están utilizando el ordenador en este momento.
+
+
+
+Detalles: Muestra los detalles de los procesos en marcha.
+
+
+Servicios: (Non sei)
+
+
+
+
+
+
+
+
+
+● Documenta cómo puede cerrarse un proceso en primer plano desde la pestaña Procesos. 
+
+Primero que nada iremos a procesos y daremos click derecho sobre el proceso que querramos cerrar y luego pulsaremos en “Finalizar tarea”, listo.
+
+
+
+
+● Documenta cómo se puede consultar el consumo de datos de la interfaz de red (tarjeta de red) de la máquina. Genera tráfico de red e indica cómo los has generado qué parte de la gráfica lo representa. 
+
+En el apartado de rendimiento poderemos observar en Ethernet el flujo de datos si abrimos un navegador web.
+
+
+
+● Indica dónde se puede consultar la lista de usuarios conectados a tu equipo. Cierra uno de los procesos en primer plano abiertos por otra persona usuaria del sistema que haya hecho login previamente en la máquina. Después, cierra la sesión de esa persona. Explica ambos procesos.
+
+La lista de usuarios conectados a mi equipo se puede consultar en usuarios.
+
+Para cerrar uno de los procesos abiertos iremos al usuario en concreto buscaremos el proceso que queremos acabar, le daremos click derecho y para finalizar pulsaremos”Finalizar tarea”.
+
+
+Para desconectar a un usuario buscaremos a dito usuario despois click dereito sobre el e daremoslle a “Cerrar sesión” para finalizar.
+
+
+
+
+
+
+
+
+ ● Documenta cómo desactivar una aplicación que se muestre en la pestaña “Inicio”. Explica qué efecto va a provocar desactivar esa aplicación. 
+
+
+
+
+
+
+
+● Instala Adobe Acrobat Reader DC y documenta:
+
+
+ 	○ cómo puedes detener el servicio AdobeARMService (Adobe Acrobat Update 
+Service). 
+
+
+
+
+
+
+
+○ cómo evitar que el servicio AdobeARMService (Adobe Acrobat Update Service) se 
+inicie de manera automática cada vez que arranque el sistema operativo (Pestaña 
+“Servicios” -> Abrir servicios). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+● Actividad 4.6 - Procesos y servicios en Ubuntu Linux 22.04 LTS: 
+● Indica los comandos y argumentos utilizados para: 
+○ Gestión de Procesos:
+
+■ obtener la lista de procesos que están ejecutándose en el sistema. Explica 
+los valores que se muestran respecto de un proceso al invocar el comando.
+
+
+
+Explicación de los valores mostrados:
+
+USER: Usuario que inició el proceso.
+PID: Identificador único del proceso.
+%CPU: Porcentaje de uso de CPU.
+%MEM: Porcentaje de uso de memoria.
+VSZ: Tamaño virtual del proceso en KB.
+RSS: Tamaño residente del proceso en KB.
+STAT: Estado del proceso (S: durmiendo, R: corriendo, Z: zombie, etc.).
+START: Hora de inicio del proceso.
+TIME: Tiempo total de CPU consumido por el proceso.
+COMMAND: Nombre del comando o programa asociado al proceso.
+
+■ ejecutar desde consola un programa instalado en el equipo. 
+
+Simplemente poniendo el nombre del programa ya lo ejecutaría.
+
+■ “matar” el proceso correspondiente al programa ejecutado anteriormente. 
+
+Con el comando “pkill” seguido del nombre del programa anterior
+ 
+○ Gestión de Servicios (Daemons):
+
+■ obtener la lista de servicios (daemons) registrados en el sistema. Explica 
+los valores que se muestran respecto de un servicio al invocar el comando.
+
+systemctl list-unit-files --type=service
+
+UNIT FILE: Nombre del archivo de unidad asociado al servicio.
+STATE: Estado del servicio (enabled, disabled, static, etc.).
+
+
+
+■ obtener la lista de servicios (daemons) que están habilitados 
+
+systemctl list-unit-files --type=service | grep enabled
+
+■ obtener la lista de servicios (daemons) deshabilitados. 
+
+systemctl list-unit-files --type=service | grep disabled
+
+○ Monitorización de recursos del sistema:
+
+■ monitoriza en tiempo real el uso de recursos del sistema.
+ Explica los valores que se muestran respecto de un proceso al invocar el 
+comando. 
+		
+		comando: top
+		
+		valores que se repiten anteriormente como:
+
+USER
+PID
+%CPU
+%MEM
+COMMAND
+
+Y los demás son:
+	
+PR: Prioridad del proceso.
+NI: Nivel de renic (prioridad ajustada).
+VIRT: Tamaño virtual del proceso.
+RES: Tamaño residente del proceso.
+SHR: Tamaño compartido.
+TIME+: Tiempo total de CPU consumido por el proceso.
+
+■ Utiliza intensivamente una aplicación instalada en el sistema mientras 
+compruebas cómo se modifican los valores que muestra la herramienta de 
+monitorización de recursos.
+
+
+
+■ Justifica por qué al utilizar la aplicación estos 
+valores aumentan o disminuyen. 
 
 
 
