@@ -163,6 +163,7 @@ Crea los siguientes directorios:
 
 ● /srv/Empresa/Desarrollo
 ● /srv/Empresa/RRHH 
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/37e599e7-7117-4a1c-a976-359b9c145325)
 
 
 Crea los siguientes subdirectorios:
@@ -171,6 +172,7 @@ Crea los siguientes subdirectorios:
 ● /srv/Empresa\Desarrollo\María 
 ● /srv/Empresa\Desarrollo\Lorena
 ● /srv/Empresa\RRHH\Compartido
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/bcefc11f-e727-41b8-929c-b1dacc536ac6)
 
 
  Dentro de cada directorio y subdirectorio añade los siguientes ficheros:
@@ -179,12 +181,17 @@ Crea los siguientes subdirectorios:
 ● Un fichero de imagen (.jpg) 
 ● Un fichero ejecutable (crea y utiliza un pequeño script en Bash con extensión .sh que devuelva el nombre del PC en el cual se ejecuta)
 
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/3049cd09-fdef-40c1-8cef-a99dd6ad6076)
 
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/db33fa53-36d1-40f1-82a8-3e6af6e50e02)
 
 
 Bash:
 
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/4cee173b-a0de-4099-ae76-353db2706456)
 
+
+Este codigo foi sacado de Chat GPT
 Para Crear un fichero en bash que nos mostre o nombre do ordenador usaremos o comando nano para escribir o código e copiaremos o código da imaxen de arriba, unha vez feito esto empezaremos a copiar e pegar o archivo nos nosos distintos repositorios.
 
 
