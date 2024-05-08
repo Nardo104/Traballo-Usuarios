@@ -191,37 +191,50 @@ Bash:
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/4cee173b-a0de-4099-ae76-353db2706456)
 
 
-Este codigo foi sacado de Chat GPT
++ Este codigo foi sacado de Chat GPT
+  
 Para Crear un fichero en bash que nos mostre o nombre do ordenador usaremos o comando nano para escribir o código e copiaremos o código da imaxen de arriba, unha vez feito esto empezaremos a copiar e pegar o archivo nos nosos distintos repositorios.
 
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/65e8ae46-ed89-4085-b7c4-069729b02c3c)
 
 Permisos Linux:
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/1b5205c8-5ac6-45e0-bbfe-bd00e45a2248)
 
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/4a0f91c7-2340-4c25-bf66-391348542532)
 
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/36abd900-1fa8-4b95-8f8d-0117555e329c)
 
-
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/52528bf2-1fce-4a08-8ce7-69a72d99c0ae)
 
 
 
 ● Actividad 4.5 - Procesos y servicios en Windows 11 Pro: 
+
 Administrador de tareas: 
 
 ● Explica brevemente qué información contiene cada una de las pestañas del Administrador de tareas:
 
  Procesos: Los procesos son los procedimientos que realizan las distintas aplicaciones en el sistema y en la pestaña de procesos nos muestra los que estan funcionando.
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/59627a80-d5c7-471a-b40c-e4877c9e3147)
 
 
  Rendimiento: Donde encontramos el rendimiento del ordenador.
 
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/76c5974b-864c-4556-bd16-c86bae8fb01f)
+
+
 Historial de Aplicaciones: Nos muestra el tiempo de uso de una aplicación principalmente.
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/3d0cc3a9-2673-4d03-a4d5-ffb66bb05914)
 
 
 Inicio: (Non sei)
 
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/fb9dbbbb-e454-4d75-b3b4-66e75f74e5c9)
 
 Usuario: Muestra los usuarios que están utilizando el ordenador en este momento.
 
 
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/d620c59c-4297-4373-a2c2-bc154d5e8f1a)
 
 Detalles: Muestra los detalles de los procesos en marcha.
 
