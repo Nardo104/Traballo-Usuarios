@@ -121,20 +121,25 @@ Fichero Personal:
 
 
 Linux:
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/2f324fa4-022b-4e3c-94f5-0a11d4e86572)
 
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/a7d8fb4e-090e-49ab-b269-1a83c276416e)
 
 
 
 Crea los siguientes usuarios locales:
 
 ● Juan (Grupo: Desarrollo) 
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/2a780fee-4444-48b6-ae66-72643b9d245b)
 
 
 ● María (Grupo: Desarrollo) 
 
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/7a9b3882-7b2f-4f1a-9afe-82ed108c01e7)
 
 
 ● Lorena (Grupo: Desarrollo)
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/bbc2c27e-1e9a-461a-9417-8403f912feec)
 
 
 ● Verónica (Grupo: RRHH) 
