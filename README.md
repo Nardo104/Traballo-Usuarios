@@ -62,51 +62,62 @@ Repetiremos este proceso para todos los usuarios.
 ## Ficheros:
 
 Creamos los directorios Desarrollo y Recursos humanos
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/ef6d64a7-d792-4040-8d8a-b7613bd70e53)
 
 
 
 ## Permisos:
 
 Para otorgar permisos en Windows primero tenemos que ir a la carpeta que queremos otorgar los permisos.
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/43d28102-8949-43c0-a8d2-80e81f0247d7)
 
 
 Una vez en ella haremos click derecho e iremos a propiedades.
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/501564d7-65e6-4a3c-9835-7b94f8b5a016)
 
 
 Luego a seguridad.
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/74437ba8-5b04-4f1a-a6b3-52ae5fed28da)
 
 
 Para luego aquí editar.
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/6833ed83-5318-49c3-992f-fe5bd61b3285)
 
 
 Pondremos los permisos que queremos que tenga nuestros grupos y usuarios, para añadir a otros usuarios o grupos iremos a agregar.
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/e6880437-5753-4a1c-bdfb-22a2b28a1dc3)
 
 Una vez en agregar iremos a opciones avanzadas
-
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/9699846a-d41a-4e83-9547-020a8797aa88)
 
 En opciones avanzadas pulsaremos en buscar ahora y elegiremos a las personas o grupos que queramos añadir, pulsaremos aceptar.
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/14a2c929-669c-4a7e-a9cc-6b06c181c795)
 
 
 
 Una vez añadidos aqui les daremos los permisos necesarios.
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/21d0cc3c-ffb5-4032-809e-4b1ca8eb69c0)
 
 
 Compartido:
-
-
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/0d31c42e-0da6-4dfb-9a24-7dc8c72228c2)
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/815f9756-fa52-42a6-aead-a0faa7470ac0)
 
 
 RRHH:
-
-
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/32294fe0-7857-4dc2-a410-fe603112fc40)
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/756ca54c-efe2-4db1-b1b5-c4201f3f65b9)
 
 
 Desarrollo:
-
-
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/4e7f4aa2-de4a-49ae-8408-3e143f993709)
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/3c266490-e278-47c2-8e74-dc6f0b1471f1)
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/371a5603-383a-4e86-897d-f1f71d354a6b)
 
 
 Fichero Personal:
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/f8633b61-73dd-496f-b6d2-a412be6a3b0f)
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/91b802f7-a6ca-40f6-83eb-077ad62cb4ba)
 
 
 Linux:
