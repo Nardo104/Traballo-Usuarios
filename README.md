@@ -1,39 +1,13 @@
-## Titulo
-+ cc
-+ ccc
-+ cccc
-CONFIGURACIÓN DE
-SISTEMAS OPERATIVOS
+
+## CONFIGURACIÓN DE SISTEMAS OPERATIVOS
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Santiago Ezequiel Torres
-Leonardo Caamaño Tajes
++ Santiago Ezequiel Torres
++ Leonardo Caamaño Tajes
 
 
 
