@@ -1,5 +1,5 @@
 
-## CONFIGURACIÓN DE SISTEMAS OPERATIVOS
+# CONFIGURACIÓN DE SISTEMAS OPERATIVOS
 
 
 
@@ -24,7 +24,7 @@
 
 
 1-Creación de usuarios y grupos locales (windows)
-
+##Grupos
 
 Primero que nada empezaremos por abrir el administrador de sistemas,“Herramientas del sistema” y “Usuarios y grupos locales”.
 Una vez aquí iremos a grupos click derecho crear grupo nuevo.
@@ -52,7 +52,6 @@ Tras lo cual nos aparecera la siguiente ventana donde rellenaremos los datos del
 Repetiremos esto con todos los usuarios.
 
 Para añadirlos a sus respectivos grupos iremos a grupos y los pondremos como miembros en sus respectivos grupos.
-![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/4dbc3967-0c65-4e3b-956e-220230269173)
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/7899f8b4-ec87-43d9-a9d8-d85cc67edd86)
 
 
@@ -60,13 +59,13 @@ Para añadirlos a sus respectivos grupos iremos a grupos y los pondremos como mi
 Repetiremos este proceso para todos los usuarios.
 
 
-Ficheros:
+##Ficheros:
 
 Creamos los directorios Desarrollo y Recursos humanos
 
 
 
-Permisos:
+##Permisos:
 
 Para otorgar permisos en Windows primero tenemos que ir a la carpeta que queremos otorgar los permisos.
 
