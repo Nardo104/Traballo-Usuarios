@@ -131,34 +131,31 @@ Crea los siguientes usuarios locales:
 
 ● Juan (Grupo: Desarrollo) 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/2a780fee-4444-48b6-ae66-72643b9d245b)
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/4f78ebb4-9040-459e-b02c-741d6b8cce08)
 
 
 ● María (Grupo: Desarrollo) 
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/7a9b3882-7b2f-4f1a-9afe-82ed108c01e7)
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/92650086-a483-461f-86f4-9331c1d7f797)
 
 
 ● Lorena (Grupo: Desarrollo)
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/bbc2c27e-1e9a-461a-9417-8403f912feec)
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/42756c09-2a75-43bb-9dee-fb0e20c1ffa3)
 
 
 ● Verónica (Grupo: RRHH) 
 
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/bf614127-ab75-438b-bead-eb0e2ecd1408)
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/ff66a5bf-a00d-42e4-94aa-79ce039bb6b5)
 
 
 
 
 ● Diego (Grupo: RRHH)
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/ab8754f0-dcd2-4434-ade3-3dbfb2a099ec)
+![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/cb1ea15f-fa02-407f-8c29-8ecf1069d8a4)
 
 
 
