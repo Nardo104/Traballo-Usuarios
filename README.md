@@ -35,15 +35,7 @@
 
 Primero que nada empezaremos por abrir el administrador de sistemas,“Herramientas del sistema” y “Usuarios y grupos locales”.
 Una vez aquí iremos a grupos click derecho crear grupo nuevo.
-https://github.com/Nardo104/Traballo-Usuarios/blob/main/Capturas/Grupo.png
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/fca211b6-00c0-403c-b1f0-32368d2247a2)
-
-
-
-
-
-
-
 
 
 
