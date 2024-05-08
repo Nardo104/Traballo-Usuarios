@@ -237,28 +237,25 @@ Usuario: Muestra los usuarios que están utilizando el ordenador en este momento
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/d620c59c-4297-4373-a2c2-bc154d5e8f1a)
 
 Detalles: Muestra los detalles de los procesos en marcha.
+![Pestaña Dealles](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/0db7df50-eb80-45f5-bed4-b474c6572044)
 
 
 Servicios: (Non sei)
-
-
-
-
-
-
-
+![Pestaña Servicios](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/b7e0b4f9-852c-4acf-a0bd-00691b72f908)
 
 
 ● Documenta cómo puede cerrarse un proceso en primer plano desde la pestaña Procesos. 
 
 Primero que nada iremos a procesos y daremos click derecho sobre el proceso que querramos cerrar y luego pulsaremos en “Finalizar tarea”, listo.
 
+![Procesos](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/2f780906-3e06-42c3-9fc7-11ed216cc92f)
 
 
 
 ● Documenta cómo se puede consultar el consumo de datos de la interfaz de red (tarjeta de red) de la máquina. Genera tráfico de red e indica cómo los has generado qué parte de la gráfica lo representa. 
 
 En el apartado de rendimiento poderemos observar en Ethernet el flujo de datos si abrimos un navegador web.
+![Ethernet](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/30814a3c-94f0-46a4-91d7-1cad1a60f14b)
 
 
 
@@ -266,11 +263,14 @@ En el apartado de rendimiento poderemos observar en Ethernet el flujo de datos s
 
 La lista de usuarios conectados a mi equipo se puede consultar en usuarios.
 
+
 Para cerrar uno de los procesos abiertos iremos al usuario en concreto buscaremos el proceso que queremos acabar, le daremos click derecho y para finalizar pulsaremos”Finalizar tarea”.
 
+![Finalizar tareas](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/db1418a3-fac0-425f-9d5e-b9e67a4bf660)
 
 Para desconectar a un usuario buscaremos a dito usuario despois click dereito sobre el e daremoslle a “Cerrar sesión” para finalizar.
 
+![Desactivar Usuario](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/c687e6c9-19cd-48e6-b473-f0494163cd1a)
 
 
 
@@ -279,7 +279,9 @@ Para desconectar a un usuario buscaremos a dito usuario despois click dereito so
 
 
  ● Documenta cómo desactivar una aplicación que se muestre en la pestaña “Inicio”. Explica qué efecto va a provocar desactivar esa aplicación. 
+ Pulando click derecho y desactivar es como desactivamos esta aplicacion al hacer esto dejaremos de tener seguridad contra virus que puedan entrar en nuestro ordenador.
 
+![Inicio Seguridad](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/6e04573a-8b4e-47ef-98cf-505df6b376a3)
 
 
 
@@ -291,6 +293,9 @@ Para desconectar a un usuario buscaremos a dito usuario despois click dereito so
 
  	○ cómo puedes detener el servicio AdobeARMService (Adobe Acrobat Update 
 Service). 
+Busca AdobeARMService pulsa click derecho y deasactivar.
+
+![Desactivar Adobe Acrobat1](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/683c02c8-7c58-4116-a8c2-d2f94e43c265)
 
 
 
@@ -302,7 +307,9 @@ Service).
 inicie de manera automática cada vez que arranque el sistema operativo (Pestaña 
 “Servicios” -> Abrir servicios). 
 
+![Adobe Acrobat2](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/eee71321-6840-4a7e-954c-8b4e55bf9f63)
 
+![Adobe Acrobat3](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/2b404045-a8d3-4082-88bf-9cf7f795bb4d)
 
 
 
