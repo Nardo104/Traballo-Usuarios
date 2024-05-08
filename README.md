@@ -307,6 +307,8 @@ Busca AdobeARMService pulsa click derecho y deasactivar.
 inicie de manera automática cada vez que arranque el sistema operativo (Pestaña 
 “Servicios” -> Abrir servicios). 
 
+Para evitar que el servicio AdobeARMService se inicie de manera automatica iremos a servicios buscaremos AdobeARMService y pulsaremos en desactivar.
+
 ![Adobe Acrobat2](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/eee71321-6840-4a7e-954c-8b4e55bf9f63)
 
 ![Adobe Acrobat3](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/2b404045-a8d3-4082-88bf-9cf7f795bb4d)
