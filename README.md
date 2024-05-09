@@ -199,8 +199,13 @@ Crea los siguientes usuarios locales:
 
 
 ● Lorena (Grupo: Desarrollo)
+
+
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/bbc2c27e-1e9a-461a-9417-8403f912feec)
+
+
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/42756c09-2a75-43bb-9dee-fb0e20c1ffa3)
+
 
 
 ● Verónica (Grupo: RRHH) 
