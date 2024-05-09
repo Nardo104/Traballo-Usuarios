@@ -21,8 +21,9 @@
 
 
 
-1-Creación de usuarios y grupos locales (windows)
-##Grupos
+##1-Creación de usuarios y grupos locales (windows)
+
+###Grupos
 
 Primero que nada empezaremos por abrir el administrador de sistemas,“Herramientas del sistema” y “Usuarios y grupos locales”.
 Una vez aquí iremos a grupos click derecho crear grupo nuevo.
