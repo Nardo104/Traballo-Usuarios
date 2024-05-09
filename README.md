@@ -397,8 +397,7 @@ Para desconectar a un usuario buscaremos a dito usuario despois click dereito so
 ● Instala Adobe Acrobat Reader DC y documenta:
 
 
- 	○ cómo puedes detener el servicio AdobeARMService (Adobe Acrobat Update 
-Service). 
+○ cómo puedes detener el servicio AdobeARMService (Adobe Acrobat Update Service). 
 Busca AdobeARMService pulsa click derecho y deasactivar.
 
 
@@ -410,6 +409,7 @@ Busca AdobeARMService pulsa click derecho y deasactivar.
 + O cómo evitar que el servicio AdobeARMService (Adobe Acrobat Update Service) se 
 inicie de manera automática cada vez que arranque el sistema operativo (Pestaña 
 “Servicios” -> Abrir servicios). 
+
 
 Para evitar que el servicio AdobeARMService se inicie de manera automatica iremos a servicios buscaremos AdobeARMService y pulsaremos en detener.
 
@@ -456,6 +456,7 @@ STAT: Estado del proceso (S: durmiendo, R: corriendo, Z: zombie, etc.).
 START: Hora de inicio del proceso.
 TIME: Tiempo total de CPU consumido por el proceso.
 COMMAND: Nombre del comando o programa asociado al proceso.
+
 
 ■ ejecutar desde consola un programa instalado en el equipo. 
 
@@ -508,9 +509,9 @@ VENDOR PRESET: Si está habilitado quiere decir que si el sistema se reinicia, e
  Explica los valores que se muestran respecto de un proceso al invocar el 
 comando. 
 		
-		comando: top
+comando: top
 		
-		valores que se repiten anteriormente como:
+valores que se repiten anteriormente como:
 
 + USER
 + PID
