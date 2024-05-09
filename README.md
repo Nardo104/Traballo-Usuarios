@@ -473,16 +473,16 @@ los valores que se muestran respecto de un proceso al invocar el comando.
 
 Explicación de los valores mostrados:
 
-USER: Usuario que inició el proceso.
-PID: Identificador único del proceso.
-%CPU: Porcentaje de uso de CPU.
-%MEM: Porcentaje de uso de memoria.
-VSZ: Tamaño virtual del proceso en KB.
-RSS: Tamaño residente del proceso en KB.
-STAT: Estado del proceso (S: durmiendo, R: corriendo, Z: zombie, etc.).
-START: Hora de inicio del proceso.
-TIME: Tiempo total de CPU consumido por el proceso.
-COMMAND: Nombre del comando o programa asociado al proceso.
++ USER: Usuario que inició el proceso.
++ PID: Identificador único del proceso.
++ %CPU: Porcentaje de uso de CPU.
++ %MEM: Porcentaje de uso de memoria.
++ VSZ: Tamaño virtual del proceso en KB.
++ RSS: Tamaño residente del proceso en KB.
++ STAT: Estado del proceso (S: durmiendo, R: corriendo, Z: zombie, etc.).
++ START: Hora de inicio del proceso.
++ TIME: Tiempo total de CPU consumido por el proceso.
++ COMMAND: Nombre del comando o programa asociado al proceso.
 
 
 ■ ejecutar desde consola un programa instalado en el equipo. 
@@ -508,7 +508,6 @@ los valores que se muestran respecto de un servicio al invocar el comando.
 
 
 ![Captura5](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/ddf38f3c-80af-4eb4-92cf-0ed67bccccd6)
-
 
 
 UNIT FILE: Nombre del archivo de unidad asociado al servicio.
