@@ -457,11 +457,11 @@ Para evitar que el servicio AdobeARMService se inicie de manera automatica iremo
 
 
 
-+ Actividad 4.6 - Procesos y servicios en Ubuntu Linux 22.04 LTS: 
+### Actividad 4.6 - Procesos y servicios en Ubuntu Linux 22.04 LTS: 
 + Indica los comandos y argumentos utilizados para: 
 
  
- Gestión de Procesos:
+ + Gestión de Procesos:
 
 ■ obtener la lista de procesos que están ejecutándose en el sistema. Explica 
 los valores que se muestran respecto de un proceso al invocar el comando.
