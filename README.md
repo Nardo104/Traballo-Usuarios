@@ -473,17 +473,22 @@ los valores que se muestran respecto de un proceso al invocar el comando.
 
 Explicación de los valores mostrados:
 
-+ USER: Usuario que inició el proceso.
-+ PID: Identificador único del proceso.
-+ %CPU: Porcentaje de uso de CPU.
-+ %MEM: Porcentaje de uso de memoria.
-+ VSZ: Tamaño virtual del proceso en KB.
-+ RSS: Tamaño residente del proceso en KB.
++ USER: “Usuario que inició el proceso”.
++ PID: “Identificador único del proceso”.
++ %CPU: ”Porcentaje de uso de CPU”.
++ %MEM: ”Porcentaje de uso de memoria”.
++ VSZ: “Tamaño virtual del proceso en KB”.
++ RSS: “Tamaño residente del proceso en KB”.
 + TTY: Es un dispositivo de caracteres que realiza la entrada y la salida de carácter en carácter.
-+ STAT: Estado del proceso (S: durmiendo, R: corriendo, Z: zombie, etc.).
-+ START: Hora de inicio del proceso.
-+ TIME: Tiempo total de CPU consumido por el proceso.
-+ COMMAND: Nombre del comando o programa asociado al proceso.
++ STAT: ”Estado del proceso (S: durmiendo, R: corriendo, Z: zombie, etc.)”.
++ START: ”Hora de inicio del proceso”.
++ TIME: “Tiempo total de CPU consumido por el proceso.
++ COMMAND: “Nombre del comando o programa asociado al proceso”.
+
+
+
+  (La mayoría de las explicaciones fueron sacadas por Chat Gpt)
+
 
 
 ■ ejecutar desde consola un programa instalado en el equipo. 
