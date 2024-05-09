@@ -479,6 +479,7 @@ Explicación de los valores mostrados:
 + %MEM: Porcentaje de uso de memoria.
 + VSZ: Tamaño virtual del proceso en KB.
 + RSS: Tamaño residente del proceso en KB.
++ TTY: Es un dispositivo de caracteres que realiza la entrada y la salida de carácter en carácter.
 + STAT: Estado del proceso (S: durmiendo, R: corriendo, Z: zombie, etc.).
 + START: Hora de inicio del proceso.
 + TIME: Tiempo total de CPU consumido por el proceso.
