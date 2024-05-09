@@ -15,8 +15,6 @@
 
 
 
-1-Creacion de usuarios	3
-
 
 
 
@@ -227,7 +225,7 @@ Historial de Aplicaciones: Nos muestra el tiempo de uso de una aplicación princ
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/3d0cc3a9-2673-4d03-a4d5-ffb66bb05914)
 
 
-Inicio: (Non sei)
+Inicio:  Pestaña na que se mostran as aplicacions que se ejecutan ao iniciar o sistema
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/fb9dbbbb-e454-4d75-b3b4-66e75f74e5c9)
 
@@ -240,7 +238,7 @@ Detalles: Muestra los detalles de los procesos en marcha.
 ![Pestaña Dealles](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/0db7df50-eb80-45f5-bed4-b474c6572044)
 
 
-Servicios: (Non sei)
+Servicios: Mostra todos os servicios existentes na maquina
 ![Pestaña Servicios](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/b7e0b4f9-852c-4acf-a0bd-00691b72f908)
 
 
