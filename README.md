@@ -298,10 +298,7 @@ Busca AdobeARMService pulsa click derecho y deasactivar.
 
 
 
-
-
-
-○ cómo evitar que el servicio AdobeARMService (Adobe Acrobat Update Service) se 
++ O cómo evitar que el servicio AdobeARMService (Adobe Acrobat Update Service) se 
 inicie de manera automática cada vez que arranque el sistema operativo (Pestaña 
 “Servicios” -> Abrir servicios). 
 
