@@ -305,7 +305,7 @@ Busca AdobeARMService pulsa click derecho y deasactivar.
 inicie de manera automática cada vez que arranque el sistema operativo (Pestaña 
 “Servicios” -> Abrir servicios). 
 
-Para evitar que el servicio AdobeARMService se inicie de manera automatica iremos a servicios buscaremos AdobeARMService y pulsaremos en desactivar.
+Para evitar que el servicio AdobeARMService se inicie de manera automatica iremos a servicios buscaremos AdobeARMService y pulsaremos en detener.
 
 ![Adobe Acrobat2](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/eee71321-6840-4a7e-954c-8b4e55bf9f63)
 
@@ -330,6 +330,7 @@ Para evitar que el servicio AdobeARMService se inicie de manera automatica iremo
 
 ■ obtener la lista de procesos que están ejecutándose en el sistema. Explica 
 los valores que se muestran respecto de un proceso al invocar el comando.
+![Captura8](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/e69e8dd5-db40-4868-a6ae-c5afab8958ed)
 
 
 
@@ -350,29 +351,38 @@ COMMAND: Nombre del comando o programa asociado al proceso.
 
 Simplemente poniendo el nombre del programa ya lo ejecutaría.
 
+![Captura7](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/c3c90f01-9351-4df8-9978-fc56331b3a41)
+
 ■ “matar” el proceso correspondiente al programa ejecutado anteriormente. 
 
-Con el comando “pkill” seguido del nombre del programa anterior
+
+Con el comando pgrep seguido del nombre del programa anterior dará el PID, una vez conseguido se ejecutaria el comando kill con el PID que ya se obtuvo.
+![Captura6](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/3bfbdd5f-4269-47eb-a8f3-1b169209b0e9)
+
  
 ○ Gestión de Servicios (Daemons):
 
 ■ obtener la lista de servicios (daemons) registrados en el sistema. Explica 
 los valores que se muestran respecto de un servicio al invocar el comando.
+![Captura5](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/ddf38f3c-80af-4eb4-92cf-0ed67bccccd6)
 
-systemctl list-unit-files --type=service
+
 
 UNIT FILE: Nombre del archivo de unidad asociado al servicio.
 STATE: Estado del servicio (enabled, disabled, static, etc.).
+VENDOR PRESET: Si está habilitado quiere decir que si el sistema se reinicia, el servicio se va a levantar de forma automática
 
 
 
 ■ obtener la lista de servicios (daemons) que están habilitados 
+![Captura4](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/3988d8c6-ab3f-4dac-9180-3c7cc961fd0a)
 
-systemctl list-unit-files --type=service | grep enabled
+
 
 ■ obtener la lista de servicios (daemons) deshabilitados. 
 
-systemctl list-unit-files --type=service | grep disabled
+![Captura3](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/b5cb5e25-621b-4159-9fcf-96e66a4923c8)
+
 
 ○ Monitorización de recursos del sistema:
 
@@ -384,30 +394,34 @@ comando.
 		
 		valores que se repiten anteriormente como:
 
-USER
-PID
-%CPU
-%MEM
-COMMAND
++ USER
++ PID
++ %CPU
++ %MEM
++ COMMAND
 
 Y los demás son:
 	
-PR: Prioridad del proceso.
-NI: Nivel de renic (prioridad ajustada).
-VIRT: Tamaño virtual del proceso.
-RES: Tamaño residente del proceso.
-SHR: Tamaño compartido.
-TIME+: Tiempo total de CPU consumido por el proceso.
++ PR: Prioridad del proceso.
++ NI: Nivel de renic (prioridad ajustada).
++ VIRT: Tamaño virtual del proceso.
++ RES: Tamaño residente del proceso.
++ SHR: Tamaño compartido.
++ HORA+: Tiempo total de CPU consumido por el proceso.
 
 ■ Utiliza intensivamente una aplicación instalada en el sistema mientras 
 compruebas cómo se modifican los valores que muestra la herramienta de 
 monitorización de recursos.
 
+![Captura2](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/13dadda4-f158-4d2e-9b92-fd72120e2937)
+
+![Ca](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/898c35cc-5fe9-49e0-abf9-7f34b4dce078)
 
 
 ■ Justifica por qué al utilizar la aplicación estos 
 valores aumentan o disminuyen. 
-
+		
+Los valores aumentan porque al tener mas procesos ejecutandose se requiere mas esfuerzo del hardware
 
 
 
