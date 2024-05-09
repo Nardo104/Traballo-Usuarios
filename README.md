@@ -135,7 +135,7 @@ Compartido:
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/815f9756-fa52-42a6-aead-a0faa7470ac0)
 
 
-RRHH:
+### RRHH:
 
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/32294fe0-7857-4dc2-a410-fe603112fc40)
@@ -144,7 +144,7 @@ RRHH:
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/756ca54c-efe2-4db1-b1b5-c4201f3f65b9)
 
 
-Desarrollo:
+### Desarrollo:
 
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/4e7f4aa2-de4a-49ae-8408-3e143f993709)
@@ -156,7 +156,7 @@ Desarrollo:
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/371a5603-383a-4e86-897d-f1f71d354a6b)
 
 
-Fichero Personal:
+### Fichero Personal:
 
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/f8633b61-73dd-496f-b6d2-a412be6a3b0f)
@@ -165,7 +165,7 @@ Fichero Personal:
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/91b802f7-a6ca-40f6-83eb-077ad62cb4ba)
 
 
-Linux:
+## Linux:
 
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/2f324fa4-022b-4e3c-94f5-0a11d4e86572)
@@ -175,7 +175,7 @@ Linux:
 
 
 
-Crea los siguientes usuarios locales:
+### Crea los siguientes usuarios locales:
 
 ● Juan (Grupo: Desarrollo) 
 
@@ -230,7 +230,7 @@ Crea los siguientes usuarios locales:
 
 
 
-Crea los siguientes directorios: 
+### Crea los siguientes directorios: 
 
 ● /srv/Empresa/Desarrollo
 ● /srv/Empresa/RRHH 
@@ -240,7 +240,7 @@ Crea los siguientes directorios:
 
 
 
-Crea los siguientes subdirectorios:
+### Crea los siguientes subdirectorios:
 
 ● /srv/Empresa\Desarrollo\Juan 
 ● /srv/Empresa\Desarrollo\María 
@@ -251,11 +251,11 @@ Crea los siguientes subdirectorios:
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/bcefc11f-e727-41b8-929c-b1dacc536ac6)
 
 
- Dentro de cada directorio y subdirectorio añade los siguientes ficheros:
+### Dentro de cada directorio y subdirectorio añade los siguientes ficheros:
 
-● Un fichero de texto plano (.txt)
-● Un fichero de imagen (.jpg) 
-● Un fichero ejecutable (crea y utiliza un pequeño script en Bash con extensión .sh que devuelva el nombre del PC en el cual se ejecuta)
++ Un fichero de texto plano (.txt)
++ Un fichero de imagen (.jpg) 
++ Un fichero ejecutable (crea y utiliza un pequeño script en Bash con extensión .sh que devuelva el nombre del PC en el cual se ejecuta)
 
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/3049cd09-fdef-40c1-8cef-a99dd6ad6076)
@@ -264,20 +264,20 @@ Crea los siguientes subdirectorios:
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/db33fa53-36d1-40f1-82a8-3e6af6e50e02)
 
 
-Bash:
+### Bash:
 
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/4cee173b-a0de-4099-ae76-353db2706456)
 
 
-+ Este codigo foi sacado de Chat GPT
++ Este codigo fue sacado de Chat GPT
   
 Para Crear un fichero en bash que nos mostre o nombre do ordenador usaremos o comando nano para escribir o código e copiaremos o código da imaxen de arriba, unha vez feito esto empezaremos a copiar e pegar o archivo nos nosos distintos repositorios.
 
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/65e8ae46-ed89-4085-b7c4-069729b02c3c)
 
-Permisos Linux:
+### Permisos Linux:
 
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/1b5205c8-5ac6-45e0-bbfe-bd00e45a2248)
@@ -294,63 +294,86 @@ Permisos Linux:
 
 
 
-● Actividad 4.5 - Procesos y servicios en Windows 11 Pro: 
+## Actividad 4.5 - Procesos y servicios en Windows 11 Pro: 
 
-Administrador de tareas: 
+### Administrador de tareas: 
 
-● Explica brevemente qué información contiene cada una de las pestañas del Administrador de tareas:
++ Explica brevemente qué información contiene cada una de las pestañas del Administrador de tareas:
 
- Procesos: Los procesos son los procedimientos que realizan las distintas aplicaciones en el sistema y en la pestaña de procesos nos muestra los que estan funcionando.
+### Procesos: 
+
+
+Los procesos son los procedimientos que realizan las distintas aplicaciones en el sistema y en la pestaña de procesos nos muestra los que estan funcionando.
 
  
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/59627a80-d5c7-471a-b40c-e4877c9e3147)
 
 
- Rendimiento: Donde encontramos el rendimiento del ordenador.
+### Rendimiento: 
+
+ 
+ Donde encontramos el rendimiento del ordenador.
  
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/76c5974b-864c-4556-bd16-c86bae8fb01f)
 
 
-Historial de Aplicaciones: Nos muestra el tiempo de uso de una aplicación principalmente.
+### Historial de Aplicaciones: 
+
+
+Nos muestra el tiempo de uso de una aplicación principalmente.
 
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/3d0cc3a9-2673-4d03-a4d5-ffb66bb05914)
 
 
-Inicio:  Pestaña na que se mostran as aplicacions que se ejecutan ao iniciar o sistema
+### Inicio:  
+
+
+Pestaña en la que se muestran las aplicaciones que se ejecutan al iniciar el sistema
 
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/fb9dbbbb-e454-4d75-b3b4-66e75f74e5c9)
 
 
-Usuario: Muestra los usuarios que están utilizando el ordenador en este momento.
+### Usuario: 
+
+
+Muestra los usuarios que están utilizando el ordenador en este momento.
 
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/d620c59c-4297-4373-a2c2-bc154d5e8f1a)
 
-Detalles: Muestra los detalles de los procesos en marcha.
+
+### Detalles: 
+
+
+Muestra los detalles de los procesos en marcha.
 
 
 ![Pestaña Dealles](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/0db7df50-eb80-45f5-bed4-b474c6572044)
 
 
-Servicios: Mostra todos os servicios existentes na maquina
+### Servicios: 
+
+
+Muestra todos los servicios existentes en la maquina
 
 
 ![Pestaña Servicios](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/b7e0b4f9-852c-4acf-a0bd-00691b72f908)
 
 
-● Documenta cómo puede cerrarse un proceso en primer plano desde la pestaña Procesos. 
+## Documenta cómo puede cerrarse un proceso en primer plano desde la pestaña Procesos. 
 
-Primero que nada iremos a procesos y daremos click derecho sobre el proceso que querramos cerrar y luego pulsaremos en “Finalizar tarea”, listo.
+
+Primero que nada iremos a procesos,luego click derecho sobre el proceso que querramos cerrar y pulsaremos en “Finalizar tarea”, listo.
 
 
 ![Procesos](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/2f780906-3e06-42c3-9fc7-11ed216cc92f)
 
 
 
-● Documenta cómo se puede consultar el consumo de datos de la interfaz de red (tarjeta de red) de la máquina. Genera tráfico de red e indica cómo los has generado qué parte de la gráfica lo representa. 
+## Documenta cómo se puede consultar el consumo de datos de la interfaz de red (tarjeta de red) de la máquina. Genera tráfico de red e indica cómo los has generado qué parte de la gráfica lo representa. 
 
 
 En el apartado de rendimiento poderemos observar en Ethernet el flujo de datos si abrimos un navegador web.
@@ -360,19 +383,19 @@ En el apartado de rendimiento poderemos observar en Ethernet el flujo de datos s
 
 
 
-● Indica dónde se puede consultar la lista de usuarios conectados a tu equipo. Cierra uno de los procesos en primer plano abiertos por otra persona usuaria del sistema que haya hecho login previamente en la máquina. Después, cierra la sesión de esa persona. Explica ambos procesos.
+## Indica dónde se puede consultar la lista de usuarios conectados a tu equipo. Cierra uno de los procesos en primer plano abiertos por otra persona usuaria del sistema que haya hecho login previamente en la máquina. Después, cierra la sesión de esa persona. Explica ambos procesos.
+
 
 La lista de usuarios conectados a mi equipo se puede consultar en usuarios.
 
 
-Para cerrar uno de los procesos abiertos iremos al usuario en concreto buscaremos el proceso que queremos acabar, le daremos click derecho y para finalizar pulsaremos”Finalizar tarea”.
+Para cerrar uno de los procesos abiertos iremos al usuario en concreto buscaremos el proceso que queremos acabar, le daremos click derecho y pulsaremos "Finalizar tarea".
 
 
 ![Finalizar tareas](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/db1418a3-fac0-425f-9d5e-b9e67a4bf660)
 
 
-Para desconectar a un usuario buscaremos a dito usuario despois click dereito sobre el e daremoslle a “Cerrar sesión” para finalizar.
-
+Para desconectar a un usuario, lo buscamos primero luego click derecho sobre el mismo y daremos a "Cerrar sesión" para finalizar.
 
 
 ![Desactivar Usuario](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/c687e6c9-19cd-48e6-b473-f0494163cd1a)
@@ -383,7 +406,9 @@ Para desconectar a un usuario buscaremos a dito usuario despois click dereito so
 
 
 
- ● Documenta cómo desactivar una aplicación que se muestre en la pestaña “Inicio”. Explica qué efecto va a provocar desactivar esa aplicación. 
+## Documenta cómo desactivar una aplicación que se muestre en la pestaña “Inicio”. Explica qué efecto va a provocar desactivar esa aplicación. 
+ 
+ 
  Pulando click derecho y desactivar es como desactivamos esta aplicacion al hacer esto dejaremos de tener seguridad contra virus que puedan entrar en nuestro ordenador.
  
 
@@ -394,7 +419,7 @@ Para desconectar a un usuario buscaremos a dito usuario despois click dereito so
 
 
 
-● Instala Adobe Acrobat Reader DC y documenta:
+## ● Instala Adobe Acrobat Reader DC y documenta:
 
 
 ○ cómo puedes detener el servicio AdobeARMService (Adobe Acrobat Update Service). 
