@@ -232,8 +232,8 @@ Compartido:
 
 ### Crea los siguientes directorios: 
 
-● /srv/Empresa/Desarrollo
-● /srv/Empresa/RRHH 
++ /srv/Empresa/Desarrollo
++ /srv/Empresa/RRHH 
 
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/37e599e7-7117-4a1c-a976-359b9c145325)
@@ -242,10 +242,10 @@ Compartido:
 
 ### Crea los siguientes subdirectorios:
 
-● /srv/Empresa\Desarrollo\Juan 
-● /srv/Empresa\Desarrollo\María 
-● /srv/Empresa\Desarrollo\Lorena
-● /srv/Empresa\RRHH\Compartido
++ /srv/Empresa\Desarrollo\Juan
++ /srv/Empresa\Desarrollo\María 
++ /srv/Empresa\Desarrollo\Lorena
++ /srv/Empresa\RRHH\Compartido
 
 
 ![image](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/bcefc11f-e727-41b8-929c-b1dacc536ac6)
@@ -431,7 +431,7 @@ Busca AdobeARMService pulsa click derecho y deasactivar.
 
 
 
-+ O cómo evitar que el servicio AdobeARMService (Adobe Acrobat Update Service) se 
++ cómo evitar que el servicio AdobeARMService (Adobe Acrobat Update Service) se 
 inicie de manera automática cada vez que arranque el sistema operativo (Pestaña 
 “Servicios” -> Abrir servicios). 
 
@@ -457,9 +457,11 @@ Para evitar que el servicio AdobeARMService se inicie de manera automatica iremo
 
 
 
-● Actividad 4.6 - Procesos y servicios en Ubuntu Linux 22.04 LTS: 
-● Indica los comandos y argumentos utilizados para: 
-○ Gestión de Procesos:
++ Actividad 4.6 - Procesos y servicios en Ubuntu Linux 22.04 LTS: 
++ Indica los comandos y argumentos utilizados para: 
+
+ 
+ Gestión de Procesos:
 
 ■ obtener la lista de procesos que están ejecutándose en el sistema. Explica 
 los valores que se muestran respecto de un proceso al invocar el comando.
@@ -499,7 +501,7 @@ Con el comando pgrep seguido del nombre del programa anterior dará el PID, una 
 ![Captura6](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/3bfbdd5f-4269-47eb-a8f3-1b169209b0e9)
 
  
-○ Gestión de Servicios (Daemons):
++ Gestión de Servicios (Daemons):
 
 ■ obtener la lista de servicios (daemons) registrados en el sistema. Explica 
 los valores que se muestran respecto de un servicio al invocar el comando.
@@ -528,7 +530,7 @@ VENDOR PRESET: Si está habilitado quiere decir que si el sistema se reinicia, e
 ![Captura3](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/b5cb5e25-621b-4159-9fcf-96e66a4923c8)
 
 
-○ Monitorización de recursos del sistema:
++ Monitorización de recursos del sistema:
 
 ■ monitoriza en tiempo real el uso de recursos del sistema.
  Explica los valores que se muestran respecto de un proceso al invocar el 
