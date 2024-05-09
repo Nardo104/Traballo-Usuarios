@@ -422,7 +422,7 @@ Para desconectar a un usuario, lo buscamos primero luego click derecho sobre el 
 ## ● Instala Adobe Acrobat Reader DC y documenta:
 
 
-○ cómo puedes detener el servicio AdobeARMService (Adobe Acrobat Update Service). 
+Cómo puedes detener el servicio AdobeARMService (Adobe Acrobat Update Service). 
 Busca AdobeARMService pulsa click derecho y deasactivar.
 
 
