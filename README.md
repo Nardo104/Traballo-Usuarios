@@ -510,9 +510,9 @@ los valores que se muestran respecto de un servicio al invocar el comando.
 ![Captura5](https://github.com/Nardo104/Traballo-Usuarios/assets/164507058/ddf38f3c-80af-4eb4-92cf-0ed67bccccd6)
 
 
-UNIT FILE: Nombre del archivo de unidad asociado al servicio.
-STATE: Estado del servicio (enabled, disabled, static, etc.).
-VENDOR PRESET: Si está habilitado quiere decir que si el sistema se reinicia, el servicio se va a levantar de forma automática
++ UNIT FILE: Nombre del archivo de unidad asociado al servicio.
++ STATE: Estado del servicio (enabled, disabled, static, etc.).
++ VENDOR PRESET: Si está habilitado quiere decir que si el sistema se reinicia, el servicio se va a levantar de forma automática
 
 
 
